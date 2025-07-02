@@ -1,15 +1,16 @@
-name: 🛠 Readme AutoUpdater (v2)  # ← 기존 이름과 다르게 바꾸기
+# .github/workflows/readme-autoupdater.yml
+name: 🛠 Readme AutoUpdater
 
 on:
+  workflow_dispatch: # 👉 Actions 탭에서 “Run workflow” 버튼으로 수동 실행
   schedule:
-    - cron: "0 * * * *"     # ⏰ 매 정시 0분에 실행
-  workflow_dispatch:
+    - cron: "0 * * * *" # ⏰ 선택: 매 정시 0분에 자동 실행 (원하면 남겨두고, 완전 수동만 원하면 삭제)
 
 permissions:
-  contents: write
+  contents: write # README 수정 & 푸시 권한
 
-concurrency:               # ← 중복 실행 방지
-  group: readme-update
+concurrency:
+  group: readme-update # 중복 실행 방지
   cancel-in-progress: true
 
 jobs:
@@ -22,7 +23,7 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 18
-          cache: 'npm'
+          cache: "npm"
 
       - name: Install dependencies
         run: npm install rss-parser@^3
@@ -34,8 +35,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config user.name  github-actions
-          git config user.email github-actions@github.com
+          git config user.name  github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git add README.md
           if git diff --cached --quiet; then
             echo "✔️ README 변경 없음 — 커밋 생략"
