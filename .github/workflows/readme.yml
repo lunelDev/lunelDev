@@ -35,12 +35,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config user.name  github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git config user.name "Park jisoo"
+          git config user.email "j2su0218@gmail.com"
+
           git add README.md
           if git diff --cached --quiet; then
             echo "✔️ README 변경 없음 — 커밋 생략"
             exit 0
           fi
+
           git commit -m "📝 자동 README 업데이트"
-          git push
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:${{ github.ref_name }}
