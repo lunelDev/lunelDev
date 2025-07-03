@@ -121,4 +121,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BUGISU&show_icons=true&theme=default" height="150" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BUGISU&layout=compact" height="150" />
 </p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=compact)
