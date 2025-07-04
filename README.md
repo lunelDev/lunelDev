@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=One%20Code%20at%20a%20Time%20%7C%20One%20Step%20Forward&fontSize=35)
 
 <p align="center">
-  <a href="https://github.com/BUGISU/BUGISU/blob/main/포트폴리오-박지수.pdf">
+  <a href="https://github.com/BUGISU/BUGISU/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EB%B0%95%EC%A7%80%EC%88%98.pdf">
     <img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=Micro.blog&logoColor=white" />
   </a>
   <a href="https://j2su0218.tistory.com">
@@ -11,7 +11,6 @@
     <img src="https://img.shields.io/badge/Email-30B980?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
 </p>
-
 
 ---
 
@@ -23,12 +22,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring&nbsp;Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### 🛠 Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+![VS&nbsp;Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-ED2761?style=for-the-badge&logo=intellijidea)
 ![Rider](https://img.shields.io/badge/Rider-632CA6?style=for-the-badge&logo=rider)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm)
@@ -83,7 +82,6 @@
 - **Platform:** Unity  
 
 ### 🏫 교과 콘텐츠
-
 #### 📘 중학교 교과 연계
 > 중학교 과학 교과 내용을 바탕으로 제작된 3D 기반 학습 콘텐츠  
 - **Project:** [세포의 세계: 생명의 기본 단위를 탐험하다](https://github.com/BUGISU/NMB_09_0201)  
@@ -110,14 +108,22 @@
 - **Project:** [JB Listen](https://github.com/BUGISU/JBListen)  
 - **Platform:** Unity  
 
----
 
 ## ✍️ Latest Blog Posts
-- (이 영역은 자동 업데이트 스크립트에서 채워짐)
+
+- Jul 04, 2025 · [Unity UI의 모바일 대응과 반응형 설계 완전 가이드](https://j2su0218.tistory.com/1703)
+- Jul 03, 2025 · [Unity UI Canvas 완전 정복](https://j2su0218.tistory.com/1702)
+- Jul 02, 2025 · [Unity Android 앱 용량 줄이기! Play Asset Delivery로 AAB 완성하기](https://j2su0218.tistory.com/1699)
+- Jul 01, 2025 · [Unity 비동기 마스터 가이드: UniTask + Addressables로 3D 모델 30개 순식간에 불러오기](https://j2su0218.tistory.com/1701)
+- Jun 28, 2025 · [[C#] 문자열을 Boolean으로 변환하는 두 가지 방법 정리](https://j2su0218.tistory.com/1697)
+
+
 
 ---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BUGISU&show_icons=true&theme=default" height="150" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BUGISU&layout=compact" height="150" />
 </p>
+
