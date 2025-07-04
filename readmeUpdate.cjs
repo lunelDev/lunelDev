@@ -1,13 +1,15 @@
-// ------------------------------------------------------------
-// README.md 자동 갱신 스크립트 (CommonJS)
-// ------------------------------------------------------------
-const { writeFileSync, readFileSync, existsSync } = require("node:fs");
+// README.md Auto‑Update Script (CommonJS)
+// -----------------------------------------------------------------------------
+// 깔끔하게 정리한 버전입니다. 역할별로 섹션을 나누고, 헬퍼 함수를 분리해
+// 가독성과 유지보수성을 높였습니다.
+// -----------------------------------------------------------------------------
+
+const { readFileSync, writeFileSync, existsSync } = require("node:fs");
 const Parser = require("rss-parser");
 
 // ─────────────────── 설정값 ───────────────────
-const BLOG_RSS_URL   = "https://j2su0218.tistory.com/rss"; // RSS 피드 주소
-const BLOG_POST_LIMIT = 5;                                 // 표시할 게시글 수
-const GITHUB_USERNAME = "BUGISU";                         // GitHub 개인 계정 ID
+const BLOG_RSS_URL = "https://j2su0218.tistory.com/rss"; // RSS 피드 주소
+const BLOG_POST_LIMIT = 5;                               // 표시할 게시글 수
 
 // ───────── 고정 템플릿: 헤더 + Tech + Portfolio ─────────
 const fixedHeader = `![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=One%20Code%20at%20a%20Time%20%7C%20One%20Step%20Forward&fontSize=35)
@@ -121,7 +123,20 @@ const fixedHeader = `![header](https://capsule-render.vercel.app/api?type=waving
 - **Platform:** Unity  
 `;
 
-// ──────────── RSS → 최신 글 리스트 생성 ────────────
+// ───────────── GitHub Stats 템플릿 ─────────────
+const githubStats = `
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BUGISU&show_icons=true&theme=default" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BUGISU&layout=compact" height="150" />
+</p>
+
+`;
+
+// ───────────── RSS → 최신 글 리스트 생성 ─────────────
 async function buildBlogSection() {
   const parser = new Parser({
     headers: {
@@ -132,15 +147,11 @@ async function buildBlogSection() {
 
   try {
     const feed = await parser.parseURL(BLOG_RSS_URL);
+    if (!feed?.items?.length) return "- (최근 글이 없습니다)";
 
-    if (!feed || !Array.isArray(feed.items) || feed.items.length === 0) {
-      return "- (최근 글이 없습니다)";
-    }
-
-    return feed.items
-      .slice(0, BLOG_POST_LIMIT)
+    return feed.items.slice(0, BLOG_POST_LIMIT)
       .map(({ title, link, pubDate }) => {
-        const date = new Date(pubDate || Date.now()).toLocaleDateString("en-US", {
+        const date = new Date(pubDate ?? Date.now()).toLocaleDateString("en-US", {
           year: "numeric",
           month: "short",
           day: "2-digit",
@@ -148,44 +159,43 @@ async function buildBlogSection() {
         return `- ${date} · [${title}](${link})`;
       })
       .join("\n");
-  } catch (err) {
-    console.error("RSS 파싱 실패:", err);
+  } catch (error) {
+    console.error("RSS 파싱 실패:", error);
     return "- (최근 글을 불러오지 못했습니다)";
   }
 }
 
-// ───────────── GitHub Stats HTML ─────────────
-const githubStats = `
+// ───────────── README 생성 & 저장 ─────────────
+function buildReadme(blogSection) {
+  return [
+    fixedHeader,
+    "## ✍️ Latest Blog Posts",
+    blogSection,
+    githubStats,
+  ].join("\n\n");
+}
 
----
+function writeReadme(content) {
+  const path = "README.md";
+  const oldContent = existsSync(path) ? readFileSync(path, "utf8") : "";
 
-## 📊 GitHub Stats
+  if (oldContent.trim() === content.trim()) {
+    console.log("ℹ️ README 내용 동일 — 커밋 생략");
+    return;
+  }
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=${GITHUB_USERNAME}&show_icons=true&theme=default" height="150" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=${GITHUB_USERNAME}&layout=compact" height="150" />
-</p>
-`;
+  writeFileSync(path, content, "utf8");
+  console.log("✅ README.md 업데이트 완료!");
+}
 
-// ───────────────────── 실행 로직 ─────────────────────
-(async () => {
+// ───────────────────── main ─────────────────────
+(async function main() {
   try {
     const blogSection = await buildBlogSection();
-    const newReadme = `${fixedHeader}\n\n## ✍️ Latest Blog Posts\n${blogSection}\n${githubStats}`;
-
-    const readmePath = "README.md";
-    const oldReadme  = existsSync(readmePath) ? readFileSync(readmePath, "utf8") : "";
-
-    // ⚡ 내용이 바뀐 경우에만 파일 쓰기 & Git 커밋
-    if (oldReadme.trim() === newReadme.trim()) {
-      console.log("ℹ️ README 내용 동일 — 커밋 생략");
-      return;
-    }
-
-    writeFileSync(readmePath, newReadme, "utf8");
-    console.log("✅ README.md 업데이트 완료!");
-  } catch (err) {
-    console.error("❌ README 업데이트 중 오류:", err);
+    const newReadme = buildReadme(blogSection);
+    writeReadme(newReadme);
+  } catch (error) {
+    console.error("❌ README 업데이트 중 오류:", error);
     process.exit(1);
   }
 })();
