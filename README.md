@@ -74,11 +74,7 @@
 ### 🌱 늘봄 시리즈
 > 초등 저학년을 위한 기초 학습형 Unity 콘텐츠 시리즈  
 - **Projects:**  
-  [늘봄 - 영어 주문을 찾아서](https://github.com/BUGISU/MC_NB_English) ｜  
-  [늘봄 - 우리들의 색깔 학교](https://github.com/BUGISU/MC_NB_Art) ｜  
-  [늘봄 - 지금 몇 시일까요?](https://github.com/BUGISU/MC_NB_Clock) ｜  
-  [늘봄 - 자연의 신비 모험](https://github.com/BUGISU/MC_NB_Nature) ｜  
-  [늘봄 - 음악 마법 모험](https://github.com/BUGISU/MC_NB_Music)  
+  [늘봄 - 영어 주문을 찾아서](https://github.com/BUGISU/MC_NB_English) ｜ [늘봄 - 우리들의 색깔 학교](https://github.com/BUGISU/MC_NB_Art) ｜ [늘봄 - 지금 몇 시일까요?](https://github.com/BUGISU/MC_NB_Clock) ｜ [늘봄 - 자연의 신비 모험](https://github.com/BUGISU/MC_NB_Nature) ｜ [늘봄 - 음악 마법 모험](https://github.com/BUGISU/MC_NB_Music)  
 - **Platform:** Unity  
 
 ### 🏫 교과 콘텐츠
