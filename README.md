@@ -107,11 +107,11 @@
 
 ## ✍️ Latest Blog Posts
 
+- Jul 09, 2025 · [Unity UI Shader Graph로 UI용 쉐이더 만들기](https://j2su0218.tistory.com/1707)
 - Jul 08, 2025 · [Unity Web Stripping Tool - 초보자용 정리 가이드](https://j2su0218.tistory.com/1706)
 - Jul 06, 2025 · [[GitHub]GitHub Stats 위젯이 갑자기 표시되지 않는 문제 해결기](https://j2su0218.tistory.com/1705)
 - Jul 05, 2025 · [Unity Inspector를 더 깔끔하게 만드는 방법 &ndash; Inspector Attribute 정리와 예제](https://j2su0218.tistory.com/1704)
 - Jul 04, 2025 · [Unity UI의 모바일 대응과 반응형 설계 완전 가이드](https://j2su0218.tistory.com/1703)
-- Jul 03, 2025 · [Unity UI Canvas 완전 정복](https://j2su0218.tistory.com/1702)
 
 
 
