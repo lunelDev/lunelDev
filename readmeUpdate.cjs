@@ -61,7 +61,7 @@ const fixedHeader = `![header](https://capsule-render.vercel.app/api?type=waving
 - **Stack:** Spring Boot  
 
 ### 🍹 Team_ShakePot (CSR)
-> 팀 기반 칵테일 레시피 공유 웹앱. 간편한 레시피 편집과 태그 필터링 지원  
+> 단백질 쉐이크에 대한 포괄적인 정보 제공 플랫폼 구축. 사용자와 공급자간의 중간다리 역할을 수행하는 플랫폼  
 - **Links:** [React + Spring Boot](https://github.com/BUGISU/Team_ShakePot)  
 - **Stack:** React, Spring Boot  
 
@@ -92,6 +92,12 @@ const fixedHeader = `![header](https://capsule-render.vercel.app/api?type=waving
 - **Platform:** Unity  
 
 ### 🏫 교과 콘텐츠
+#### 📘 초등학교 교과 연계
+> 초등학교 과학 교과 내용을 바탕으로 제작된 3D 기반 학습 콘텐츠  
+- **Project:** [물의 상태 변화 관찰하기](https://github.com/BUGISU/MC_NET_10_0102)  
+  - **스택:** Unity 2022.3 LTS, Leia Unity SDK, DOTween  
+  - **디바이스:** Leia Lume Pad 2 / Nubia Pad 3D  
+
 #### 📘 중학교 교과 연계
 > 중학교 과학 교과 내용을 바탕으로 제작된 3D 기반 학습 콘텐츠  
 - **Project:** [세포의 세계: 생명의 기본 단위를 탐험하다](https://github.com/BUGISU/NMB_09_0201)  
