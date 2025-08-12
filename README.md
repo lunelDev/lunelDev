@@ -113,11 +113,11 @@
 
 ## ✍️ Latest Blog Posts
 
+- Aug 12, 2025 · [Unity Multiplayer Center &amp; ClientNetworkTransform](https://j2su0218.tistory.com/1709)
 - Aug 11, 2025 · [[Unity]Unity에서 2D 프로젝트 &rarr; 3D 프로젝트로 변경 하기](https://j2su0218.tistory.com/1708)
 - Jul 09, 2025 · [Unity UI Shader Graph로 UI용 쉐이더 만들기](https://j2su0218.tistory.com/1707)
 - Jul 08, 2025 · [Unity Web Stripping Tool - 초보자용 정리 가이드](https://j2su0218.tistory.com/1706)
 - Jul 06, 2025 · [[GitHub]GitHub Stats 위젯이 갑자기 표시되지 않는 문제 해결기](https://j2su0218.tistory.com/1705)
-- Jul 05, 2025 · [Unity Inspector를 더 깔끔하게 만드는 방법 &ndash; Inspector Attribute 정리와 예제](https://j2su0218.tistory.com/1704)
 
 
 
