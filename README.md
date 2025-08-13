@@ -113,11 +113,11 @@
 
 ## ✍️ Latest Blog Posts
 
+- Aug 13, 2025 · [Unity Multiplayer Center에서 위젯 샘플 생성하고 로비 구현하기](https://j2su0218.tistory.com/1710)
 - Aug 12, 2025 · [Unity Multiplayer Center &amp; ClientNetworkTransform](https://j2su0218.tistory.com/1709)
 - Aug 11, 2025 · [[Unity]Unity에서 2D 프로젝트 &rarr; 3D 프로젝트로 변경 하기](https://j2su0218.tistory.com/1708)
 - Jul 09, 2025 · [Unity UI Shader Graph로 UI용 쉐이더 만들기](https://j2su0218.tistory.com/1707)
 - Jul 08, 2025 · [Unity Web Stripping Tool - 초보자용 정리 가이드](https://j2su0218.tistory.com/1706)
-- Jul 06, 2025 · [[GitHub]GitHub Stats 위젯이 갑자기 표시되지 않는 문제 해결기](https://j2su0218.tistory.com/1705)
 
 
 
