@@ -113,11 +113,11 @@
 
 ## ✍️ Latest Blog Posts
 
+- Aug 21, 2025 · [유니티 앱 라이선스 확인 시스템 구축(1): 구글 클라우드로 서버 없이 구현하기](https://j2su0218.tistory.com/1713)
 - Aug 20, 2025 · [✨ 네이버 블로그 &middot; 티스토리 &middot; 포스타입을 활용한 3단 운영 전략](https://j2su0218.tistory.com/1712)
 - Aug 13, 2025 · [Unity Multiplayer Center에서 위젯 샘플 생성하고 로비 구현하기](https://j2su0218.tistory.com/1710)
 - Aug 12, 2025 · [Unity Multiplayer Center &amp; ClientNetworkTransform](https://j2su0218.tistory.com/1709)
 - Aug 11, 2025 · [[Unity]Unity에서 2D 프로젝트 &rarr; 3D 프로젝트로 변경 하기](https://j2su0218.tistory.com/1708)
-- Jul 09, 2025 · [Unity UI Shader Graph로 UI용 쉐이더 만들기](https://j2su0218.tistory.com/1707)
 
 
 
