@@ -116,7 +116,7 @@
 - Aug 22, 2025 · [Cloud Functions API 활성화 방법](https://j2su0218.tistory.com/1714)
 - Aug 21, 2025 · [유니티 앱 라이선스 확인 시스템 구축(1):  Google Cloud Functions](https://j2su0218.tistory.com/1713)
 - Aug 20, 2025 · [✨ 네이버 블로그 &middot; 티스토리 &middot; 포스타입을 활용한 3단 운영 전략](https://j2su0218.tistory.com/1712)
-- Aug 13, 2025 · [Unity Multiplayer Center에서 위젯 샘플 생성하고 로비 구현하기](https://j2su0218.tistory.com/1710)
+- Aug 13, 2025 · [Unity Multiplayer Center &ndash; Multiplayer Widgets로 간단한 로비 시스템 만들기](https://j2su0218.tistory.com/1710)
 - Aug 12, 2025 · [Unity Multiplayer Center &amp; ClientNetworkTransform](https://j2su0218.tistory.com/1709)
 
 
