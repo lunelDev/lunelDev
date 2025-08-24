@@ -113,11 +113,11 @@
 
 ## ✍️ Latest Blog Posts
 
+- Aug 24, 2025 · [Unity + Firebase로 라이선스 인증 기능 만들기 (Firestore 기반 씬 전환)](https://j2su0218.tistory.com/1717)
 - Aug 23, 2025 · [유니티 앱 라이선스 확인 시스템 구축(2):   Google Cloud Run](https://j2su0218.tistory.com/1716)
 - Aug 22, 2025 · [Cloud Functions API 활성화 방법](https://j2su0218.tistory.com/1714)
 - Aug 21, 2025 · [유니티 앱 라이선스 확인 시스템 구축(1):  Google Cloud Functions](https://j2su0218.tistory.com/1713)
 - Aug 20, 2025 · [✨ 네이버 블로그 &middot; 티스토리 &middot; 포스타입을 활용한 3단 운영 전략](https://j2su0218.tistory.com/1712)
-- Aug 13, 2025 · [Unity Multiplayer Center &ndash; Multiplayer Widgets로 간단한 로비 시스템 만들기](https://j2su0218.tistory.com/1710)
 
 
 
