@@ -29,11 +29,8 @@ const fixedHeader = `![header](https://capsule-render.vercel.app/api?type=waving
 ---
 
 ## 👋 About Me
-안녕하세요, 박지수입니다. Unity 기반 **교육용 인터랙티브 콘텐츠**와 **XR/3D 학습형 프로젝트**를 개발하고 있으며,  
-Firebase · Google Cloud · OpenAI API를 활용한 **라이선스 인증 시스템**과 **AI 기반 기능**까지 직접 구현한 경험이 있습니다.  
 
 - 🎮 Unity 기반 학습/게임 콘텐츠 개발  
-- 📱 Android (APK) · Leia Lume Pad 2 · Nubia Pad 3D 최적화 경험  
 - ☁️ Firebase + Cloud Functions/Run, OpenAI API 연동 프로젝트 수행  
 - ✍️ 기술 블로그를 통해 학습/개발 경험 공유  
 
