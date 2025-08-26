@@ -14,6 +14,17 @@
 
 ---
 
+## 👋 About Me
+안녕하세요, 박지수입니다. Unity 기반 **교육용 인터랙티브 콘텐츠**와 **XR/3D 학습형 프로젝트**를 개발하고 있으며,  
+Firebase · Google Cloud · OpenAI API를 활용한 **라이선스 인증 시스템**과 **AI 기반 기능**까지 직접 구현한 경험이 있습니다.  
+
+- 🎮 Unity 기반 학습/게임 콘텐츠 개발  
+- 📱 Android (APK) · Leia Lume Pad 2 · Nubia Pad 3D 최적화 경험  
+- ☁️ Firebase + Cloud Functions/Run, OpenAI API 연동 프로젝트 수행  
+- ✍️ 기술 블로그를 통해 학습/개발 경험 공유  
+
+---
+
 ## 🧠 Tech Stack & Tools
 
 ### 💻 Languages & Frameworks
@@ -23,6 +34,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Spring&nbsp;Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![OpenAI&nbsp;API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 🛠 Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -47,7 +60,7 @@
 - **Stack:** Spring Boot  
 
 ### 🍹 Team_ShakePot (CSR)
-> 단백질 쉐이크에 대한 포괄적인 정보 제공 플랫폼 구축. 사용자와 공급자간의 중간다리 역할을 수행하는 플랫폼  
+> 단백질 쉐이크 정보 제공, 사용자-공급자 연결 플랫폼  
 - **Links:** [React + Spring Boot](https://github.com/BUGISU/Team_ShakePot)  
 - **Stack:** React, Spring Boot  
 
@@ -58,43 +71,43 @@
 ### 🎮 보자마자 PLAY
 > 직관적 상호작용을 중시하는 Unity 기반 인터랙티브 시리즈  
 - **Projects:** [모바일](https://github.com/BUGISU/BojamajaPlay2_mobile) ｜ [리얼모션](https://github.com/BUGISU/BojamajaPlay2_realmotion)  
-- **Platform:** Unity  
+- **Stack:** Unity, C#
 
 ### 🏃 보자마자 피트니스
 > 운동 습관 형성을 위한 게임형 콘텐츠  
 - **Projects:**  
   [런 투더 문](https://github.com/BUGISU/BMF-Run.to.the.Moon) ｜ [사이클링 투어](https://github.com/BUGISU/BMF-CyclingTour) ｜ [시티투어 부산](https://github.com/BUGISU/BMF-CityTourBusan) ｜ [어메이징코어](https://github.com/BUGISU/BMF-AmazingCore)  
-- **Platform:** Unity  
+- **Stack:** Unity, C#
 
 ### 🧠 보자마자 케어
 > 인지 학습 및 건강 증진을 위한 시니어 케어 콘텐츠  
 - **Projects:** [케어](https://github.com/BUGISU/BMF-BojamajaCare) ｜ [브레인](https://github.com/BUGISU/BMF-BojamajaBrain)  
-- **Platform:** Unity  
+- **Stack:** Unity, C#, UI/UX Interaction  
 
 ### 🌱 늘봄 시리즈
 > 초등 저학년을 위한 기초 학습형 Unity 콘텐츠 시리즈  
 - **Projects:**  
-  [늘봄 - 영어 주문을 찾아서](https://github.com/BUGISU/MC_NB_English) ｜ [늘봄 - 우리들의 색깔 학교](https://github.com/BUGISU/MC_NB_Art) ｜ [늘봄 - 지금 몇 시일까요?](https://github.com/BUGISU/MC_NB_Clock) ｜ [늘봄 - 자연의 신비 모험](https://github.com/BUGISU/MC_NB_Nature) ｜ [늘봄 - 음악 마법 모험](https://github.com/BUGISU/MC_NB_Music)  
-- **Platform:** Unity  
+  [영어 주문을 찾아서](https://github.com/BUGISU/MC_NB_English) ｜ [우리들의 색깔 학교](https://github.com/BUGISU/MC_NB_Art) ｜ [지금 몇 시일까요?](https://github.com/BUGISU/MC_NB_Clock) ｜ [자연의 신비 모험](https://github.com/BUGISU/MC_NB_Nature) ｜ [음악 마법 모험](https://github.com/BUGISU/MC_NB_Music)  
+- **Stack:** Unity, Leia Unity SDK, DOTween  
 
-### 🏫 교과 콘텐츠
+---
+
+## 🏫 교과 콘텐츠
+
 #### 📘 초등학교 교과 연계
-> 초등학교 과학 교과 내용을 바탕으로 제작된 3D 기반 학습 콘텐츠  
 - **Project:** [물의 상태 변화 관찰하기](https://github.com/BUGISU/MC_NET_10_0102)  
-  - **스택:** Unity 2022.3 LTS, Leia Unity SDK, DOTween  
-  - **디바이스:** Leia Lume Pad 2 / Nubia Pad 3D  
+- **Stack:** Unity 2022.3 LTS, Leia Unity SDK, DOTween  
+- **Device:** Leia Lume Pad 2 / Nubia Pad 3D  
 
 #### 📘 중학교 교과 연계
-> 중학교 과학 교과 내용을 바탕으로 제작된 3D 기반 학습 콘텐츠  
 - **Project:** [세포의 세계: 생명의 기본 단위를 탐험하다](https://github.com/BUGISU/NMB_09_0201)  
-  - **스택:** Unity 2022.3 LTS, Leia Unity SDK, DOTween  
-  - **디바이스:** Leia Lume Pad 2 / Nubia Pad 3D  
+- **Stack:** Unity 2022.3 LTS, Leia Unity SDK, DOTween  
+- **Device:** Leia Lume Pad 2 / Nubia Pad 3D  
 
 #### 🧪 고등학교 교과 연계
-> 고등학교 과학 교과 내용을 바탕으로 제작된 3D 기반 학습 콘텐츠  
 - **Project:** [PCR 검사를 활용한 탐구 활동](https://github.com/BUGISU/MC_LHT2_03_PCR)  
-  - **스택:** Unity 2022.3 LTS, Leia Unity SDK, DOTween  
-  - **디바이스:** Leia Lume Pad 2 / Nubia Pad 3D  
+- **Stack:** Unity 2022.3 LTS, Leia Unity SDK, DOTween  
+- **Device:** Leia Lume Pad 2 / Nubia Pad 3D  
 
 ---
 
@@ -103,23 +116,22 @@
 ### 🏛 복천박물관
 > 지역 역사 유물을 3D 전시 콘텐츠로 구현한 전시관 전용 콘텐츠  
 - **Project:** [복천박물관](https://github.com/BUGISU/Bokcheon-dong)  
-- **Platform:** Unity  
+- **Stack:** Unity, C#  
 
 ### 🎧 JB Listen
-> 전북 지역의 명소·문화·콘텐츠를 소개하는 지역 홍보 모바일 애플리케이션  
+> 전북 지역의 명소·문화·콘텐츠를 소개하는 지역 홍보 모바일 앱  
 - **Project:** [JB Listen](https://github.com/BUGISU/JBListen)  
-- **Platform:** Unity  
+- **Stack:** Unity, C#, Android APK  
 
+---
 
 ## ✍️ Latest Blog Posts
 
 - Aug 24, 2025 · [Unity + Firebase로 라이선스 인증 기능 만들기 (Firestore 기반 씬 전환)](https://j2su0218.tistory.com/1717)
-- Aug 23, 2025 · [유니티 앱 라이선스 확인 시스템 구축(2):   Google Cloud Run](https://j2su0218.tistory.com/1716)
+- Aug 23, 2025 · [유니티 앱 라이선스 확인 시스템 구축(2): Google Cloud Run](https://j2su0218.tistory.com/1716)
 - Aug 22, 2025 · [Cloud Functions API 활성화 방법](https://j2su0218.tistory.com/1714)
-- Aug 21, 2025 · [유니티 앱 라이선스 확인 시스템 구축(1):  Google Cloud Functions](https://j2su0218.tistory.com/1713)
-- Aug 20, 2025 · [✨ 네이버 블로그 &middot; 티스토리 &middot; 포스타입을 활용한 3단 운영 전략](https://j2su0218.tistory.com/1712)
-
-
+- Aug 21, 2025 · [유니티 앱 라이선스 확인 시스템 구축(1): Google Cloud Functions](https://j2su0218.tistory.com/1713)
+- Aug 20, 2025 · [✨ 네이버 블로그 · 티스토리 · 포스타입을 활용한 3단 운영 전략](https://j2su0218.tistory.com/1712)
 
 ---
 
@@ -128,4 +140,3 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BUGISU&show_icons=true&theme=default" height="150" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BUGISU&layout=compact" height="150" />
 </p>
-
