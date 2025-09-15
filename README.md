@@ -125,11 +125,11 @@
 
 ## ✍️ Latest Blog Posts
 
-- Aug 24, 2025 · [Unity + Firebase로 라이선스 인증 기능 만들기 (Firestore 기반 씬 전환)](https://j2su0218.tistory.com/1717)
-- Aug 23, 2025 · [유니티 앱 라이선스 확인 시스템 구축(2):   Google Cloud Run](https://j2su0218.tistory.com/1716)
-- Aug 22, 2025 · [Cloud Functions API 활성화 방법](https://j2su0218.tistory.com/1714)
-- Aug 21, 2025 · [유니티 앱 라이선스 확인 시스템 구축(1):  Google Cloud Functions](https://j2su0218.tistory.com/1713)
-- Aug 20, 2025 · [✨ 네이버 블로그 &middot; 티스토리 &middot; 포스타입을 활용한 3단 운영 전략](https://j2su0218.tistory.com/1712)
+- Sep 14, 2025 · [PyTorch로 DNN(Deep Neural Network) 구현하기 - MNIST 예제 (시각화 포함)](https://j2su0218.tistory.com/1724)
+- Sep 13, 2025 · [RestGallery - DB 리스트 생성 및 삭제](https://j2su0218.tistory.com/1723)
+- Sep 12, 2025 · [FastAPI에서 API가 Swagger에 안 나오고 안 지워질 때 해결법](https://j2su0218.tistory.com/1722)
+- Sep 11, 2025 · [Unity에서 API 연동 준비](https://j2su0218.tistory.com/1721)
+- Sep 10, 2025 · [Postman에서 이미지 업로드 (POST /api/images)](https://j2su0218.tistory.com/1720)
 
 
 
