@@ -15,15 +15,15 @@
 ---
 
 ## 👋 About Me
-- 🎮 Unity 기반 학습/게임 콘텐츠 개발  
-- ☁️ Firebase + Cloud Functions/Run, OpenAI API 연동 프로젝트 수행  
-- ✍️ 기술 블로그를 통해 학습/개발 경험 공유  
+🎮 Unity 기반 학습/게임 콘텐츠 개발  
+☁️ Firebase + Cloud Functions/Run, OpenAI API 연동 프로젝트 수행  
+✍️ 기술 블로그를 통해 학습/개발 경험 공유  
 
 ---
 
 ## 🧠 Tech Stack & Tools
 
-### 💻 Languages & Frameworks
+### 💻 Languages & Frameworks  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -33,7 +33,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![OpenAI&nbsp;API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### 🛠 Tools
+### 🛠 Tools  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)
 ![VS&nbsp;Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
@@ -45,21 +45,22 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BUGISU&show_icons=true&theme=default" height="150" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BUGISU&layout=compact" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BUGISU&show_icons=true&theme=default" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BUGISU&layout=compact" height="180" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
-- [UrbanTwin (IoT 시각화)](https://github.com/BUGISU/UrbanTwin)
-- [보자마자 시리즈](https://github.com/BUGISU/BojamajaPlay2_realmotion)
-- [SnapTide (여행 SNS)](https://github.com/BUGISU/SnapTide)
+- 🎮 [UrbanTwin (IoT 시각화)](https://github.com/BUGISU/UrbanTwin)
+- 🏃 [보자마자 시리즈](https://github.com/BUGISU/BojamajaPlay2_realmotion)
+- 🌍 [SnapTide (여행 SNS)](https://github.com/BUGISU/SnapTide)
 
 ---
 
 ## ✍️ Latest Blog Posts
-- Sep 15, 2025 · [PyTorch로 DNN 구현하기 - MNIST 학습 곡선 (Loss + Accuracy)](https://j2su0218.tistory.com/1725)
-- Sep 14, 2025 · [PyTorch로 DNN 구현하기 - MNIST 예제 (시각화 포함)](https://j2su0218.tistory.com/1724)
-- Sep 13, 2025 · [RestGallery - DB 리스트 생성 및 삭제](https://j2su0218.tistory.com/1723)
+📝 [PyTorch로 DNN 구현하기 - MNIST 학습 곡선 (Loss + Accuracy)](https://j2su0218.tistory.com/1725)  
+📘 [PyTorch로 DNN 구현하기 - MNIST 예제 (시각화 포함)](https://j2su0218.tistory.com/1724)  
+🛠️ [RestGallery - DB 리스트 생성 및 삭제](https://j2su0218.tistory.com/1723)  
+
 ➡️ [블로그에서 더 보기](https://j2su0218.tistory.com)
