@@ -28,36 +28,23 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Spring&nbsp;Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
-![Spring&nbsp;Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
-![OpenAI&nbsp;API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)  
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 
 ### 🛠 Tools
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) 
-![Cinemachine](https://img.shields.io/badge/Cinemachine-000000?style=for-the-badge&logo=unity&logoColor=white) 
-![Timeline](https://img.shields.io/badge/Timeline-000000?style=for-the-badge&logo=unity&logoColor=white) 
-![ShaderGraph](https://img.shields.io/badge/ShaderGraph-000000?style=for-the-badge&logo=unity&logoColor=white) 
-![URP](https://img.shields.io/badge/URP-000000?style=for-the-badge&logo=unity&logoColor=white)  
-![DoTween](https://img.shields.io/badge/DoTween-FF69B4?style=for-the-badge&logo=unity&logoColor=white) 
-![Leap&nbsp;Motion](https://img.shields.io/badge/Leap%20Motion-00FFB3?style=for-the-badge&logo=leapmotion&logoColor=black) 
-![Kinect](https://img.shields.io/badge/Kinect-6A0DAD?style=for-the-badge&logo=xbox&logoColor=white) 
-![Vuforia](https://img.shields.io/badge/Vuforia-2C2C2C?style=for-the-badge&logo=vuforia&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-ED2761?style=for-the-badge&logo=intellijidea&logoColor=white) 
 ![VS&nbsp;Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
-![Rider](https://img.shields.io/badge/Rider-632CA6?style=for-the-badge&logo=rider&logoColor=white) 
-![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black) 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 ![Adobe&nbsp;Premiere](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premierepro&logoColor=white) 
-![Adobe&nbsp;Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)  
+![Adobe&nbsp;Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 
 ---
