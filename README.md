@@ -3,7 +3,6 @@
 <p align="center">
   <a href="https://github.com/BUGISU/JisuPark-Resume">
     <img src="https://img.shields.io/badge/Resume-FF6F61?style=for-the-badge&logo=Micro.blog&logoColor=white" />
-  </a>
   <a href="https://j2su0218.tistory.com">
     <img src="https://img.shields.io/badge/Blog-FF9800?style=for-the-badge&logo=Blogger&logoColor=white" />
   </a>
@@ -70,8 +69,9 @@
 | [PCR 실험 탐구](https://github.com/BUGISU/MC_LHT2_03_PCR)                                | 2025.06 ~ 2025.06   | 고등 생명과학 – PCR 과정 시뮬레이션 학습                |
 | [복천박물관](https://github.com/BUGISU/Bokcheon-dong)                                    | 2021.09 ~ 2021.12   | 지역 역사 유물을 3D 전시 콘텐츠로 구현한 AR 앱           |
 | [JB Listen](https://github.com/BUGISU/JBListen)                                          | 2022.06 ~ 2022.06   | 전북 명소·문화·콘텐츠 홍보용 모바일 앱                  |
-
 ---
+
+
 ## ✍️ Latest Blog Posts
 
 - Sep 15, 2025 · [PyTorch로 DNN 구현하기 - MNIST 학습 곡선 (Loss + Accuracy)](https://j2su0218.tistory.com/1725)
@@ -79,6 +79,8 @@
 - Sep 13, 2025 · [RestGallery - DB 리스트 생성 및 삭제](https://j2su0218.tistory.com/1723)
 - Sep 12, 2025 · [FastAPI에서 API가 Swagger에 안 나오고 안 지워질 때 해결법](https://j2su0218.tistory.com/1722)
 - Sep 11, 2025 · [Unity에서 API 연동 준비](https://j2su0218.tistory.com/1721)
+
+
 
 ---
 
