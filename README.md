@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=One%20Code%20at%20a%20Time%20%7C%20One%20Step%20Forward&fontSize=35)
 
 <p align="center">
-  <a href="https://github.com/BUGISU/BUGISU/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EB%B0%95%EC%A7%80%EC%88%98.pdf">
-    <img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=Micro.blog&logoColor=white" />
+  <a href="https://github.com/BUGISU/JisuPark-Resume">
+    <img src="https://img.shields.io/badge/Resume-FF6F61?style=for-the-badge&logo=Micro.blog&logoColor=white" />
   </a>
   <a href="https://j2su0218.tistory.com">
     <img src="https://img.shields.io/badge/Blog-FF9800?style=for-the-badge&logo=Blogger&logoColor=white" />
