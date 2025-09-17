@@ -1,4 +1,4 @@
-[header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=One%20Code%20at%20a%20Time%20%7C%20One%20Step%20Forward&fontSize=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=One%20Code%20at%20a%20Time%20%7C%20One%20Step%20Forward&fontSize=35)
 
 <p align="center">
   <a href="https://github.com/BUGISU/BUGISU/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EB%B0%95%EC%A7%80%EC%88%98.pdf">
@@ -119,12 +119,6 @@
 > 전북 지역의 명소·문화·콘텐츠를 소개하는 지역 홍보 모바일 앱  
 - **Project:** [JB Listen](https://github.com/BUGISU/JBListen)  
 - **Stack:** Unity, C#, Android APK  
-
----
-`;
-
-// ───────────── GitHub Stats 템플릿 ─────────────
-const githubStats = `
 
 ---
 
