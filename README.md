@@ -16,52 +16,30 @@
 
 ## 👋 About Me
 - 🎮 Unity 기반 학습/게임 콘텐츠 개발  
-- ☁️ Firebase + Cloud Functions/Run, OpenAI API 연동 프로젝트 경험  
-- ✍️ 기술 블로그 운영 (학습 & 개발 경험 공유)  
+- ☁️ Firebase + Cloud Functions/Run, OpenAI API 연동 프로젝트 수행  
+- ✍️ 기술 블로그를 통해 학습/개발 경험 공유  
 
 ---
 
-## 🧠 Tech Stack
-**Languages & Frameworks**: Unity(C#), React, Spring Boot, Firebase, Python  
-**Tools**: GitHub, Rider, VS Code, IntelliJ, PyCharm  
+## 🧠 Tech Stack & Tools
 
----
+### 💻 Languages & Frameworks
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Spring&nbsp;Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![OpenAI&nbsp;API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-## 🚀 Featured Projects
-
-### 🎮 Unity Projects
-- [UrbanTwin (IoT 시각화)](https://github.com/BUGISU/UrbanTwin)  
-- [보자마자 PLAY](https://github.com/BUGISU/BojamajaPlay2_realmotion)  
-- [보자마자 피트니스 - Run to the Moon](https://github.com/BUGISU/BMF-Run.to.the.Moon)  
-- [보자마자 피트니스 - Cycling Tour](https://github.com/BUGISU/BMF-CyclingTour)  
-- [보자마자 피트니스 - City Tour Busan](https://github.com/BUGISU/BMF-CityTourBusan)  
-- [보자마자 피트니스 - Amazing Core](https://github.com/BUGISU/BMF-AmazingCore)  
-- [보자마자 케어](https://github.com/BUGISU/BMF-BojamajaCare) ｜ [보자마자 브레인](https://github.com/BUGISU/BMF-BojamajaBrain)  
-- [늘봄 - 영어 주문을 찾아서](https://github.com/BUGISU/MC_NB_English)  
-- [늘봄 - 우리들의 색깔 학교](https://github.com/BUGISU/MC_NB_Art)  
-- [늘봄 - 지금 몇 시일까요?](https://github.com/BUGISU/MC_NB_Clock)  
-- [늘봄 - 자연의 신비 모험](https://github.com/BUGISU/MC_NB_Nature)  
-- [늘봄 - 음악 마법 모험](https://github.com/BUGISU/MC_NB_Music)  
-- [세포의 세계](https://github.com/BUGISU/NMB_09_0201)  
-- [물의 상태 변화 관찰하기](https://github.com/BUGISU/MC_NET_10_0102)  
-- [PCR 탐구 활동](https://github.com/BUGISU/MC_LHT2_03_PCR)  
-- [복천박물관 전시 콘텐츠](https://github.com/BUGISU/Bokcheon-dong)  
-- [JB Listen (지역 홍보 앱)](https://github.com/BUGISU/JBListen)  
-
----
-
-### 💻 Web / Full Stack Projects
-- [SnapTide (여행 SNS)](https://github.com/BUGISU/SnapTide) ｜ [Backend](https://github.com/BUGISU/SnapTideAPI)  
-- [FilmCritiq (영화 리뷰)](https://github.com/BUGISU/FilmCritiq)  
-- [Team_ShakePot (단백질 쉐이크 플랫폼)](https://github.com/BUGISU/Team_ShakePot)  
-
----
-
-## ✍️ Latest Blog Posts
-- [PyTorch로 DNN 구현하기 - MNIST 학습 곡선](https://j2su0218.tistory.com/1725)  
-- [PyTorch로 DNN 구현하기 - MNIST 예제](https://j2su0218.tistory.com/1724)  
-- [RestGallery - DB 리스트 생성 및 삭제](https://j2su0218.tistory.com/1723)  
-👉 [더보기](https://j2su0218.tistory.com)
+### 🛠 Tools
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)
+![VS&nbsp;Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-ED2761?style=for-the-badge&logo=intellijidea)
+![Rider](https://img.shields.io/badge/Rider-632CA6?style=for-the-badge&logo=rider)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm)
 
 ---
 
@@ -70,3 +48,18 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BUGISU&show_icons=true&theme=default" height="150" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BUGISU&layout=compact" height="150" />
 </p>
+
+---
+
+## 🚀 Featured Projects
+- [UrbanTwin (IoT 시각화)](https://github.com/BUGISU/UrbanTwin)
+- [보자마자 시리즈](https://github.com/BUGISU/BojamajaPlay2_realmotion)
+- [SnapTide (여행 SNS)](https://github.com/BUGISU/SnapTide)
+
+---
+
+## ✍️ Latest Blog Posts
+- Sep 15, 2025 · [PyTorch로 DNN 구현하기 - MNIST 학습 곡선 (Loss + Accuracy)](https://j2su0218.tistory.com/1725)
+- Sep 14, 2025 · [PyTorch로 DNN 구현하기 - MNIST 예제 (시각화 포함)](https://j2su0218.tistory.com/1724)
+- Sep 13, 2025 · [RestGallery - DB 리스트 생성 및 삭제](https://j2su0218.tistory.com/1723)
+➡️ [블로그에서 더 보기](https://j2su0218.tistory.com)
