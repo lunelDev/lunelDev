@@ -120,6 +120,14 @@
 - **Project:** [JB Listen](https://github.com/BUGISU/JBListen)  
 - **Stack:** Unity, C#, Android APK  
 
+---
+`;
+
+// ───────────── GitHub Stats 템플릿 ─────────────
+const githubStats = `
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BUGISU&show_icons=true&theme=default" height="150" />
