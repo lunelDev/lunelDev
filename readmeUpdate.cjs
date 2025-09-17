@@ -62,7 +62,7 @@ const fixedHeader = `![header](https://capsule-render.vercel.app/api?type=waving
 
 ---
 ## 📂 All Projects at a Glance
-제가 지금까지 진행한 주요 프로젝트들을 한눈에 정리했습니다.  
+총 **16개 프로젝트**를 진행했으며, 아래 표에서 한눈에 확인할 수 있습니다.  
 각 프로젝트명을 클릭하면 상세 내용과 기술 스택을 확인하실 수 있습니다.
 
 | Project                                                                                   | Period              | Description                                             |
