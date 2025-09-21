@@ -74,11 +74,7 @@
 
 ## ✍️ Latest Blog Posts
 
-- Sep 15, 2025 · [PyTorch로 DNN 구현하기 - MNIST 학습 곡선 (Loss + Accuracy)](https://j2su0218.tistory.com/1725)
-- Sep 14, 2025 · [PyTorch로 DNN(Deep Neural Network) 구현하기 - MNIST 예제 (시각화 포함)](https://j2su0218.tistory.com/1724)
-- Sep 13, 2025 · [RestGallery - DB 리스트 생성 및 삭제](https://j2su0218.tistory.com/1723)
-- Sep 12, 2025 · [FastAPI에서 API가 Swagger에 안 나오고 안 지워질 때 해결법](https://j2su0218.tistory.com/1722)
-- Sep 11, 2025 · [Unity에서 API 연동 준비](https://j2su0218.tistory.com/1721)
+- (최근 글을 불러오지 못했습니다)
 
 
 
