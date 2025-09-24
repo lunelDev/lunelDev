@@ -82,7 +82,6 @@ const fixedHeader = `![header](https://capsule-render.vercel.app/api?type=waving
 | [세포의 세계](https://github.com/BUGISU/NMB_09_0201)                                     | 2025.06 ~ 2025.06   | 중등 과학 – 동식물 세포 탐험 및 비교 학습                |
 | [PCR 실험 탐구](https://github.com/BUGISU/MC_LHT2_03_PCR)                                | 2025.06 ~ 2025.06   | 고등 생명과학 – PCR 과정 시뮬레이션 학습                |
 | [복천박물관](https://github.com/BUGISU/Bokcheon-dong)                                    | 2021.09 ~ 2021.12   | 지역 역사 유물을 3D 전시 콘텐츠로 구현한 AR 앱           |
-| [JB Listen](https://github.com/BUGISU/JBListen)                                          | 2022.06 ~ 2022.06   | 전북 명소·문화·콘텐츠 홍보용 모바일 앱                  |
 ---
 `;
 
