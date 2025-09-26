@@ -1,3 +1,4 @@
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=One%20Code%20at%20a%20Time%20%7C%20One%20Step%20Forward&fontSize=35)
 
 <p align="center">
@@ -63,6 +64,7 @@
 | [PCR 실험 탐구](https://github.com/BUGISU/MC_LHT2_03_PCR)                                | 2025.06 ~ 2025.06   | 고등 생명과학 – PCR 과정 시뮬레이션 학습                |
 | [복천박물관](https://github.com/BUGISU/Bokcheon-dong)                                    | 2021.09 ~ 2021.12   | 지역 역사 유물을 3D 전시 콘텐츠로 구현한 AR 앱           |
 
+
 ## ✍️ Latest Blog Posts
 
 - Sep 22, 2025 · [UrbanTwin.Server   TCP 서버 구현하기](https://j2su0218.tistory.com/1726)
@@ -71,9 +73,6 @@
 - Sep 13, 2025 · [RestGallery - DB 리스트 생성 및 삭제](https://j2su0218.tistory.com/1723)
 - Sep 12, 2025 · [FastAPI에서 API가 Swagger에 안 나오고 안 지워질 때 해결법](https://j2su0218.tistory.com/1722)
 
-
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
