@@ -15,10 +15,10 @@
 
 ## 👋 About Me
 
-- 🎮 Unity 기반 학습/게임 콘텐츠 개발  
-- ☁️ Firebase + Cloud Functions/Run, OpenAI API 연동 프로젝트 수행  
-- ✍️ 기술 블로그를 통해 학습/개발 경험 공유  
-
+- 🎮 Unity 기반 XR·AR 학습/게임 콘텐츠 개발 경험  
+- 🌐 Spring Boot + React 풀스택 웹 서비스 구현  
+- ☁️ Firebase·OpenAI API 등 클라우드 연동 프로젝트 수행  
+- ✍️ 블로그와 GitHub에 학습·개발 기록 공유  
 ---
 
 ## 🧠 Tech Stack & Tools
