@@ -11,15 +11,12 @@
   </a>
 </p>
 
----
-
 ## 👋 About Me
 
 - 🎮 Unity 기반 XR·AR 학습/게임 콘텐츠 개발 경험  
 - 🌐 Spring Boot + React 풀스택 웹 서비스 구현  
 - ☁️ Firebase·OpenAI API 등 클라우드 연동 프로젝트 수행  
 - ✍️ 블로그와 GitHub에 학습·개발 기록 공유  
----
 
 ## 🧠 Tech Stack & Tools
 
@@ -34,8 +31,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
----
-
 ### 🛠 Tools
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
@@ -46,7 +41,6 @@
 ![Adobe&nbsp;Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 
----
 ## 📂 All Projects at a Glance
 총 **16개 프로젝트**를 진행했으며, 아래 표에서 한눈에 확인할 수 있습니다.  
 각 프로젝트명을 클릭하면 상세 내용과 기술 스택을 확인하실 수 있습니다.
@@ -68,8 +62,6 @@
 | [세포의 세계](https://github.com/BUGISU/NMB_09_0201)                                     | 2025.06 ~ 2025.06   | 중등 과학 – 동식물 세포 탐험 및 비교 학습                |
 | [PCR 실험 탐구](https://github.com/BUGISU/MC_LHT2_03_PCR)                                | 2025.06 ~ 2025.06   | 고등 생명과학 – PCR 과정 시뮬레이션 학습                |
 | [복천박물관](https://github.com/BUGISU/Bokcheon-dong)                                    | 2021.09 ~ 2021.12   | 지역 역사 유물을 3D 전시 콘텐츠로 구현한 AR 앱           |
----
-
 
 ## ✍️ Latest Blog Posts
 
