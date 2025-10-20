@@ -67,11 +67,11 @@
 
 ## ✍️ Latest Blog Posts
 
+- Oct 20, 2025 · [기존 방식의 chat/completions와 지금 사용방식의 Responses API](https://j2su0218.tistory.com/1732)
 - Oct 01, 2025 · [Unity 클라이언트에서 UrbanTwin 서버랑 연결](https://j2su0218.tistory.com/1728)
 - Sep 30, 2025 · [콘솔 클라이언트(센서 시뮬레이터) 코드](https://j2su0218.tistory.com/1727)
 - Sep 28, 2025 · [Unity에서 데이터 시각화 업그레이드](https://j2su0218.tistory.com/1730)
 - Sep 27, 2025 · [머신러닝 학습 과정 한눈에 보기: 손실 함수&middot;경사하강법&middot;Optimizer](https://j2su0218.tistory.com/1731)
-- Sep 22, 2025 · [UrbanTwin.Server   TCP 서버 구현하기](https://j2su0218.tistory.com/1726)
 
 
 ## 📊 GitHub Stats
