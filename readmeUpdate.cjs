@@ -9,7 +9,7 @@ const BLOG_POST_LIMIT = 5;                               // 표�
 
 // ───────── 고정 템플릿: 헤더 + Tech + Portfolio ─────────
 const fixedHeader = `
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=One%20Code%20at%20a%20Time%20%7C%20One%20Step%20Forward&fontSize=35)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&text=One%20Code%20at%20a%20Time%20%7C%20One%20Step%20Forward&reversal=false&fontAlign=50&fontSize=20&textBg=false&animation=fadeIn&descAlign=0) 
 
 <p align="center">
   <a href="https://github.com/BUGISU/J.Park-Resume">
