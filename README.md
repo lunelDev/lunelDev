@@ -1,18 +1,17 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&text=One%20Code%20at%20a%20Time%20%7C%20One%20Step%20Forward&reversal=false&fontAlign=50&fontSize=20&textBg=false&animation=fadeIn&descAlign=0) 
 
-<div align="center">
-  <a href="https://github.com/BUGISU/J.Park-Resume">
-    <img src="https://img.shields.io/badge/Resume-FF6F61?style=for-the-badge&logo=Micro.blog&logoColor=white" />
-  </a>
-  <a href="https://j2su0218.tistory.com">
-    <img src="https://img.shields.io/badge/Blog-FF9800?style=for-the-badge&logo=Blogger&logoColor=white" />
-  </a>
-  <a href="mailto:admin@j2su0218@gmail.com">
-    <img src="https://img.shields.io/badge/Email-30B980?style=for-the-badge&logo=Gmail&logoColor=white" />
-  </a>
-</div>
-    
+<p align="center">
+  <a href="https://github.com/BUGISU/J.Park-Resume">
+    <img src="https://img.shields.io/badge/Resume-FF6F61?style=for-the-badge&logo=Micro.blog&logoColor=white" />
+  <a href="https://j2su0218.tistory.com">
+    <img src="https://img.shields.io/badge/Blog-FF9800?style=for-the-badge&logo=Blogger&logoColor=white" />
+  </a>
+  <a href="mailto:admin@j2su0218@gmail.com">
+    <img src="https://img.shields.io/badge/Email-30B980?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+</p>
+
 ## Professional Summary 
 
 - **Unity & XR 전문가:** 3년 경력의 Unity(C#) 기반 **XR/AR 학습 및 피트니스 콘텐츠** 개발자. 프로젝트 초기 기획부터 상용화까지 전 과정 경험 보유.
