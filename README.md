@@ -1,3 +1,4 @@
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=One%20Code%20at%20a%20Time%20%7C%20One%20Step%20Forward&fontSize=35)
 
 <p align="center">
@@ -11,72 +12,66 @@
   </a>
 </p>
 
-## 🚀 Professional Summary (전문 역량 요약)
+## Professional Summary 
 
 - **Unity & XR 전문가:** 3년 경력의 Unity(C#) 기반 **XR/AR 학습 및 피트니스 콘텐츠** 개발자. 프로젝트 초기 기획부터 상용화까지 전 과정 경험 보유.
 - **서버 연동 및 디지털 트윈:** **TCP/IP, RESTful API 통신 구조**를 설계하고, IoT 센서 데이터 및 AI API(OpenAI)를 Unity 환경에 통합 구현하여 **디지털 트윈** 시스템 PoC 성공.
 - **하드웨어 인터랙션:** Leap Motion, Kinect, FIT-TAG, Leia 3D SDK 등 **외부 센서 및 장비 연동** 기반의 인터랙티브 콘텐츠 개발 전문.
 - **기술 확장성:** Java/Spring Boot 풀스택 개발 경험을 통해 클라이언트-서버 시스템 전반의 이해도 확보 및 문제 해결 능력 보유.
 
----
+## Tech Stack & Tools
 
-## 🧠 Tech Stack & Tools
-
-### 🎮 Game & XR Development (핵심 전문 분야)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) 
+### Game & XR Development 
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 | **Unity Stacks** | Timeline, Cinemachine, DoTween, TextMeshPro, URP, Particle System |
 | **XR/Sensor** | Leia 3D SDK, Vuforia (AR), Leap Motion, Kinect, FIT-TAG (모션/피트니스) |
 
-### 🌐 Server & Cloud Integration (확장 역량)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Spring&nbsp;Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
+### Server & Cloud Integration
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Spring&nbsp;Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 | **Server/API** | Spring Security, JWT, RESTful API, FastAPI (Python), TCP/IP, Fetch/Axios |
 | **Cloud/Tools** | OpenAI API, Render, Firebase, Postman |
 
-### 💻 Frontend & Others
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+### Frontend & Others
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 | **Web** | SPA 구조 설계, 상태 관리, 반응형 UI/UX (Bootstrap) |
 | **Design** | Figma, Adobe Photoshop/Premiere Pro |
 
----
-
-## 📂 Key Projects by Domain
+## Key Projects by Domain
 
 프로젝트명 클릭 시 상세 내용과 기술 스택을 담은 GitHub 리포지토리로 연결됩니다.
 
-### Unity 기반 서버 연동 및 디지털 트윈 (기술 융합 강조)
+### Unity 기반 서버 연동 및 디지털 트윈 
 
-| Project Name (Repo Link) | Key Achievement / Role (핵심 역할/기술) | Stacks |
+| Project Name | Key Achievement / Role | Stacks |
 | :--- | :--- | :--- |
 | **[Urban Twin](https://github.com/BUGISU/UrbanTwin)** | **디지털 트윈 PoC:** TCP/IP 통신 기반 IoT 센서 데이터 실시간 시각화 구현. | Unity, C#, .NET 6, **TCP/IP**, LineRenderer |
 | **[GPT-UnityProxyDemo](https://github.com/BUGISU/GPT-UnityProxyDemo)** | **AI 연동:** **OpenAI API**를 Render Proxy 서버와 연동한 대화형 AI 시스템 구현. | Unity, C#, **OpenAI API**, Render, JSON |
 | **[ImageGalleryAPI](https://github.com/BUGISU/RestGallery)** | **RESTful API 연동:** Unity 클라이언트와 FastAPI 서버 간 이미지 CRUD 풀사이클 시스템 구축. | Unity, C#, **Python(FastAPI)**, UnityWebRequest |
 
-### Core XR/AR & Fitness Development (3년 경력의 핵심 포트폴리오)
+### Core XR/AR & Fitness Development 
 
-| Project Name (Repo Link) | Key Achievement / Role (핵심 역할/기술) | Stacks |
+| Project Name | Key Achievement / Role| Stacks |
 | :--- | :--- | :--- |
 | **[PCR 실험 탐구](https://github.com/BUGISU/MC_LHT2_03_PCR), [세포의 세계](https://github.com/BUGISU/NMB_09_0201)** | **XR 과학 학습:** Leia 3D 디스플레이 최적화, 정교한 과학 실험 로직 구현 및 5단계 학습 흐름 개발. | Unity, C#, **Leia 3D SDK**, DOTween |
 | **[보자마자 피트니스 - 시티투어 부산](https://github.com/BUGISU/BMF-CityTourBusan)** | **피트니스 확장:** **FIT-TAG 센서 연동**, WebView 상점 및 다국어 지원 환경 구축. | Unity, C#, **FIT-TAG**, WebView, Localization |
 | **[복둥이의 시간 여행](https://github.com/BUGISU/Bokcheon-dong)** | **AR 박물관:** Vuforia 기반 AR 마커 인식, 애니메이션/나레이션 동기화 및 3D 모델 최적화. | Unity, C#, **Vuforia**, DOTweenPro |
 | **[보자마자 브레인](https://github.com/BUGISU/BMF-BojamajaBrain)** | **모션 인식/인지 훈련:** **Leap Motion/Kinect** 기반 인지훈련 콘텐츠 UI 재구성 및 UX 개선. | Unity, C#, **Leap Motion**, **Kinect** |
 
-### Full-stack Web Development (백엔드 기초 역량)
+### Full-stack Web Development 
 
-| Project Name (Repo Link) | Key Achievement / Role (핵심 역할/기술) | Stacks |
+| Project Name| Key Achievement / Role | Stacks |
 | :--- | :--- | :--- |
 | **[Team_ShakePot](https://github.com/BUGISU/Team_ShakePot)** | **헬스케어 플랫폼:** Spring Boot API 개발, **JWT 인증/권한 제어** 및 React 기반 UI/UX 설계. | **Spring Boot**, Java, React, MySQL, **JWT** |
 | **[SnapTide](https://github.com/BUGISU/SnapTide)** | **Web Service:** Spring Boot 기반 백엔드 및 API 개발, **Spring Security**를 활용한 인증 기능 구현. | **Spring Boot**, Java, MariaDB, React |
-
----
 
 ## GitHub Stats & Learnings
 
@@ -85,9 +80,11 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BUGISU&layout=compact" height="150" />
 </p>
 
-### Latest Blog Posts (지속적인 기술 학습 및 공유)
+### Latest Blog Posts 
+
 
 - Oct 22, 2025 · [Render 을 사용하여 프록시 구현하기](https://j2su0218.tistory.com/1734)
 - Oct 21, 2025 · [POSTMAN 을 사용하여 RestAPI 새 요청 열기](https://j2su0218.tistory.com/1733)
 - Oct 20, 2025 · [기존 방식의 chat/completions와 지금 사용방식의 Responses API](https://j2su0218.tistory.com/1732)
 - Oct 01, 2025 · [Unity 클라이언트에서 UrbanTwin 서버랑 연결](https://j2su0218.tistory.com/1728)
+- Sep 30, 2025 · [콘솔 클라이언트(센서 시뮬레이터) 코드](https://j2su0218.tistory.com/1727)
