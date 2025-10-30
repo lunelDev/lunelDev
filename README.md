@@ -83,8 +83,8 @@
 ### Latest Blog Posts 
 
 
+- Oct 30, 2025 · [모눈종이 제작 사이트](https://j2su0218.tistory.com/1736)
 - Oct 25, 2025 · [유니티에서 OpenAI(또는 프록시)를 안전하게 연동](https://j2su0218.tistory.com/1735)
 - Oct 22, 2025 · [Render 을 사용하여 프록시 구현하기](https://j2su0218.tistory.com/1734)
 - Oct 21, 2025 · [POSTMAN 을 사용하여 RestAPI 새 요청 열기](https://j2su0218.tistory.com/1733)
 - Oct 20, 2025 · [기존 방식의 chat/completions와 지금 사용방식의 Responses API](https://j2su0218.tistory.com/1732)
-- Oct 01, 2025 · [Unity 클라이언트에서 UrbanTwin 서버랑 연결](https://j2su0218.tistory.com/1728)
