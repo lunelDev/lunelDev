@@ -83,8 +83,8 @@
 ### Latest Blog Posts 
 
 
+- Nov 30, 2025 · [브랜드를 1인 운영하거나 처음 시작한 사람들에게 필요한 9가지 프로그램](https://j2su0218.tistory.com/1745)
 - Nov 29, 2025 · [Google Cloud의 프로젝트 ID &middot; 프로젝트 이름 &middot; 프로젝트 번호 정리](https://j2su0218.tistory.com/1743)
 - Nov 28, 2025 · [인텔 리얼센스(intel real sense)와 유니티 sdk 자료모음](https://j2su0218.tistory.com/1746)
 - Nov 27, 2025 · [Google Cloud 기초 핵심 인프라 : 클라우드 소개](https://j2su0218.tistory.com/1742)
 - Nov 25, 2025 · [Unity 기본 기능 정리: 화면 비율 &middot; 해상도 고정 &middot; 씬 전환 &middot; Ray 활용](https://j2su0218.tistory.com/1741)
-- Nov 24, 2025 · [Carbon 소개: 소스 코드를 이미지로 변환하는 무료 웹 도구](https://j2su0218.tistory.com/1740)
