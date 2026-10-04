@@ -81,13 +81,15 @@ AI 도구를 단순 코드 생성기가 아니라 작업 흐름을 정리하고 
 
 <table align="center">
   <tr>
-    <td valign="top" width="52%"><img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" /></td>
-    <td valign="middle" width="48%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lunelDev/lunelDev/output/github-contribution-grid-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lunelDev/lunelDev/output/github-contribution-grid-snake.svg" />
-        <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/lunelDev/lunelDev/output/github-contribution-grid-snake.svg" width="100%" />
-      </picture>
-    </td>
+    <td valign="top" width="50%"><img src="./github-metrics.svg" alt="GitHub Stats" width="100%" /></td>
+    <td valign="top" width="50%"><img src="./github-metrics-languages.svg" alt="Most Used Languages" width="100%" /></td>
   </tr>
 </table>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lunelDev/lunelDev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lunelDev/lunelDev/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/lunelDev/lunelDev/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
