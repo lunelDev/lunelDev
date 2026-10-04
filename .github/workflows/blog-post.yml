@@ -17,4 +17,6 @@ jobs:
         with:
           feed_list: "https://j2su0218.tistory.com/rss"
           max_post_count: 5
+          user_agent: "Mozilla/5.0 (compatible; GitHubActionsBot)"
+          accept_header: "application/rss+xml, application/xml, text/xml; q=0.9"
           commit_message: "chore: update latest blog posts"
