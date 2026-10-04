@@ -79,14 +79,15 @@ AI 도구를 단순 코드 생성기가 아니라 작업 흐름을 정리하고 
   <strong><a href="https://jisuportfolio.vercel.app">전체 프로젝트와 상세 구현 내용은 포트폴리오에서 확인할 수 있습니다 →</a></strong>
 </p>
 
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lunelDev/lunelDev/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lunelDev/lunelDev/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/lunelDev/lunelDev/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+<table align="center">
+  <tr>
+    <td valign="top" width="52%"><img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" /></td>
+    <td valign="middle" width="48%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lunelDev/lunelDev/output/github-contribution-grid-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lunelDev/lunelDev/output/github-contribution-grid-snake.svg" />
+        <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/lunelDev/lunelDev/output/github-contribution-grid-snake.svg" width="100%" />
+      </picture>
+    </td>
+  </tr>
+</table>
