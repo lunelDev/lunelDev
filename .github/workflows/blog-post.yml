@@ -12,6 +12,7 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - name: Pull latest Tistory posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
