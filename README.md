@@ -36,8 +36,8 @@ BLE IMU, Leap Motion, Kinect, Leia 3D, MediaPipe 같은 입력을 게임 로직�
 | Project | My Role | Stack / Evidence |
 | :--- | :--- | :--- |
 | **BrainFriends**<br />언어재활 디지털 헬스케어 | 웹 클라이언트, 재활 콘텐츠 화면, 훈련 기록 흐름 구현. MEDICAL HACK 2026 개발 담당 참가. | Next.js, React, TypeScript, Healthcare<br />🏆 MEDICAL HACK 2026 우수상 |
-| **[Run To The Moon](https://github.com/lunelDev/BMF-Run.to.the.Moon)**<br />FIT-TAG 러닝 게임 | 센서 각속도 기반 속도 판정, 캐릭터 애니메이션, 1000km 진행 시스템, 랜덤 맵, AAB 배포 | Unity, C#, FIT-TAG BLE, Cinemachine |
-| **[Bojamaja Brain](https://github.com/lunelDev/BMF-BojamajaBrain)**<br />시니어 인지훈련 콘텐츠 | 터치 미니게임 15종, Leap Motion 손동작 게임 5종, CSV 랜덤 출제, Android 출시 | Unity, C#, Leap Motion, Android |
+| **[Run To The Moon](https://github.com/lunelDev/RunToTheMoon)**<br />FIT-TAG 러닝 게임 | 센서 각속도 기반 속도 판정, 캐릭터 애니메이션, 1000km 진행 시스템, 랜덤 맵, AAB 배포 | Unity, C#, FIT-TAG BLE, Cinemachine |
+| **[Bojamaja Brain](https://github.com/lunelDev/BojamajaBrain)**<br />시니어 인지훈련 콘텐츠 | 터치 미니게임 15종, Leap Motion 손동작 게임 5종, CSV 랜덤 출제, Android 출시 | Unity, C#, Leap Motion, Android |
 | **[SnapTide](https://github.com/lunelDev/SnapTide)**<br />풀스택 SNS | React 화면, Spring Boot 인증/권한, 게시글·이미지·댓글 데이터 흐름 구현 | React, Spring Boot, Spring Security, MariaDB |
 
 ## AI Workflow
