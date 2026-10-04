@@ -64,6 +64,13 @@ AI 도구를 단순 코드 생성기가 아니라 작업 흐름을 정리하고 
 
 `FIT-TAG BLE` · `Leap Motion` · `Kinect` · `Vuforia AR` · `Leia 3D` · `MediaPipe` · `DOTween` · `Cinemachine` · `Android / Google Play`
 
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<p align="right"><a href="https://j2su0218.tistory.com">더 보기 → Blog ↗</a></p>
+
 ## More
 
 <p align="center">
@@ -71,6 +78,9 @@ AI 도구를 단순 코드 생성기가 아니라 작업 흐름을 정리하고 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lunelDev&show_icons=true&theme=default" height="150" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lunelDev&layout=compact" height="150" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lunelDev/lunelDev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lunelDev/lunelDev/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/lunelDev/lunelDev/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
