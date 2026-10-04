@@ -68,10 +68,10 @@ AI 도구를 단순 코드 생성기가 아니라 작업 흐름을 정리하고 
 
 <!-- BLOG-POST-LIST:START -->
 - [UI/UX 디자이너라면 꼭 북마크해야 할 디자인 리소스 사이트 정리](https://j2su0218.tistory.com/1749)
-- [Windows 보안이 안 열리고 &amp;lsquo;권장 작업&amp;rsquo;이 눌리지 않을 때 해결 방법 &lpar;직접 해결한 사례&rpar;](https://j2su0218.tistory.com/1747)
+- [Windows 보안이 안 열리고 &lsquo;권장 작업&rsquo;이 눌리지 않을 때 해결 방법 (직접 해결한 사례)](https://j2su0218.tistory.com/1747)
 - [구글 클라우드의 리소스 및 액세스 개념 정리](https://j2su0218.tistory.com/1744)
 - [브랜드를 1인 운영하거나 처음 시작한 사람들에게 필요한 9가지 프로그램](https://j2su0218.tistory.com/1745)
-- [Google Cloud의 프로젝트 ID &amp;middot; 프로젝트 이름 &amp;middot; 프로젝트 번호 정리](https://j2su0218.tistory.com/1743)
+- [Google Cloud의 프로젝트 ID &middot; 프로젝트 이름 &middot; 프로젝트 번호 정리](https://j2su0218.tistory.com/1743)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://j2su0218.tistory.com">더 보기 → Blog ↗</a></p>
