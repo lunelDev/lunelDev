@@ -76,7 +76,11 @@ AI 도구를 단순 코드 생성기가 아니라 작업 흐름을 정리하고 
       <strong>📝 Latest Blog Posts</strong>
       <ul>
         <!-- BLOG-POST-LIST:START -->
-        <!-- BLOG-POST-LIST:END -->
+<li><a href="https://j2su0218.tistory.com/1749">UI/UX 디자이너라면 꼭 북마크해야 할 디자인 리소스 사이트 정리</a></li>
+<li><a href="https://j2su0218.tistory.com/1747">Windows 보안이 안 열리고 &lsquo;권장 작업&rsquo;이 눌리지 않을 때 해결 방법 (직접 해결한 사례)</a></li>
+<li><a href="https://j2su0218.tistory.com/1744">구글 클라우드의 리소스 및 액세스 개념 정리</a></li>
+<li><a href="https://j2su0218.tistory.com/1745">브랜드를 1인 운영하거나 처음 시작한 사람들에게 필요한 9가지 프로그램</a></li>
+<li><a href="https://j2su0218.tistory.com/1743">Google Cloud의 프로젝트 ID &middot; 프로젝트 이름 &middot; 프로젝트 번호 정리</a></li><!-- BLOG-POST-LIST:END -->
       </ul>
       <div align="right"><a href="https://j2su0218.tistory.com">더 보기 → Blog ↗</a></div>
     </td>
