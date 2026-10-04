@@ -4,9 +4,6 @@
   <a href="https://jisuportfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=vercel&logoColor=0B1220" />
   </a>
-  <a href="https://jisuportfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Resume-FF6F61?style=for-the-badge&logo=readme&logoColor=white" />
-  </a>
   <a href="https://j2su0218.tistory.com">
     <img src="https://img.shields.io/badge/Blog-FF9800?style=for-the-badge&logo=tistory&logoColor=white" />
   </a>
