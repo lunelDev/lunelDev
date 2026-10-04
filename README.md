@@ -49,8 +49,6 @@ AI 도구를 단순 코드 생성기가 아니라 작업 흐름을 정리하고 
 - `Implementation`: 반복 코드, API 연결, UI 개선 초안을 빠르게 만들고 직접 수정
 - `Verification`: 빌드, 화면 확인, 회귀 포인트 점검으로 결과물을 검증
 
-관련 실험: [GPT-UnityProxyDemo](https://github.com/lunelDev/GPT-UnityProxyDemo)
-
 ## Tech Stack
 
 <p>
