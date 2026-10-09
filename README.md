@@ -84,11 +84,3 @@ AI 도구를 단순 코드 생성기가 아니라 작업 흐름을 정리하고 
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lunelDev/lunelDev/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lunelDev/lunelDev/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/lunelDev/lunelDev/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
